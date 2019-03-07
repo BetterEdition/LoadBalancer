@@ -1,0 +1,14 @@
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\bin\Debug\netcoreapp2.2\LoadBalancerRemade.deps.json
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\bin\Debug\netcoreapp2.2\LoadBalancerRemade.runtimeconfig.json
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\bin\Debug\netcoreapp2.2\LoadBalancerRemade.runtimeconfig.dev.json
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\bin\Debug\netcoreapp2.2\LoadBalancerRemade.dll
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\obj\Debug\netcoreapp2.2\LoadBalancerRemade.csprojAssemblyReference.cache
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\obj\Debug\netcoreapp2.2\LoadBalancerRemade.csproj.CoreCompileInputs.cache
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\obj\Debug\netcoreapp2.2\LoadBalancerRemade.RazorAssemblyInfo.cache
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\obj\Debug\netcoreapp2.2\LoadBalancerRemade.RazorAssemblyInfo.cs
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\obj\Debug\netcoreapp2.2\LoadBalancerRemade.AssemblyInfoInputs.cache
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\obj\Debug\netcoreapp2.2\LoadBalancerRemade.AssemblyInfo.cs
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\obj\Debug\netcoreapp2.2\LoadBalancerRemade.RazorTargetAssemblyInfo.cache
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\bin\Debug\netcoreapp2.2\LoadBalancerRemade.pdb
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\obj\Debug\netcoreapp2.2\LoadBalancerRemade.dll
+C:\Users\Jespe\source\repos\LoadBalancerRemade\LoadBalancerRemade\obj\Debug\netcoreapp2.2\LoadBalancerRemade.pdb
